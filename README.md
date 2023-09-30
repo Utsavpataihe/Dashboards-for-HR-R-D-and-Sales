@@ -1,2 +1,2 @@
-# HR--R-D--and-Sales--PowerBI--Dashboards
+# HR--Research-&-Development--and-Sales--PowerBI--Dashboards
  
